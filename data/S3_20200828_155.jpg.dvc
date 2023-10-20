@@ -1,0 +1,5 @@
+outs:
+- md5: 11eb633425e403cf5d7539db9bff233b
+  size: 355220
+  hash: md5
+  path: S3_20200828_155.jpg
